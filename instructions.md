@@ -8,7 +8,7 @@ A small Python project that demonstrates core Object-Oriented Programming concep
 
 - `models.py` — classes and OOP logic (Book, User, Member, Librarian, Library)
 - `main.py` — simple CLI demo to interact with the library
-- `README.md` — (this file) explains setup, how OOP concepts map to the code, and extension ideas
+- `instructions.md` — (this file) explains setup, how OOP concepts map to the code, and extension ideas
 
 ---
 
