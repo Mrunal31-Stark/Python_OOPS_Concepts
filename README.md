@@ -11,7 +11,7 @@ Ek hi naam ka method, alag-alag classes में alag-alag kaam kar sakta hai.
 
 ### Inheritance क्या है?
 
-Inheritance का मतलब है - कुछ चीजें एक parent class से child class में आती हैं, जैसे genes।
+Inheritance का मतलब है - कुछ चीजें एक parent class से child class में आती हैं, जैसे genes
 
 ```
 Inheritance = Child class, Parent class के properties को ले सकती है
